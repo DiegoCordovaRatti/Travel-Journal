@@ -1,0 +1,34 @@
+.card--container{
+    display: flex;
+    width: 500px;
+    height: 168px;
+    margin: 40px 0;
+    font-size: 11px;
+}
+.card-image{
+    width: 125px;
+    border-radius: 12px;
+    margin-right: 20px;
+    object-fit: cover;
+}
+
+.card-header--container{
+    display: flex;
+    
+}
+.card-header--container .card-header--location{
+    margin: 0 12px 0 4px;
+    letter-spacing: 2px;
+}
+.card-header--container .card-header--link{
+    color: #918E9B;
+}
+
+.card-title{
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 0 13px 0;
+}
+.card-date--container .card-date{
+    
+}

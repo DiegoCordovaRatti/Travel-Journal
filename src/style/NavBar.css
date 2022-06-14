@@ -1,0 +1,15 @@
+
+.nav--container{
+    height: 55px;
+    background-color: #F55A5A;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-title{
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 10px;
+}
